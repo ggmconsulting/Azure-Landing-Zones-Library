@@ -41,7 +41,8 @@
     "Enforce-GR-Storage0",
     "Enforce-GR-Synapse0",
     "Enforce-GR-VirtualDesk0",
-    "Enforce-Subnet-Private"
+    "Enforce-Subnet-Private",
+    "Enable-DDoS-VNET"
   ],
   "policy_definitions": [],
   "policy_set_definitions": [],
